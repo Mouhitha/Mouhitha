@@ -17,7 +17,7 @@ I completed an Erasmus+ academic exchange at Mälardalen University in Sweden in
 
 ## Experience
 
-- **HARMAN International:** Data Engineering Intern, working on channel partner sales and inventory data preparation, validation and enterprise analytics workflows.
+- **HARMAN International:** Data Engineering, working on channel partner sales and inventory data preparation, validation and enterprise analytics workflows.
 - **Guidewire Software:** Former Software Development Intern, working with event-driven messaging, Go services and automated testing.
 - **ACM-W:** Former student chapter president; helped organize hands-on data science bootcamps in Bengaluru.
 
