@@ -2,7 +2,7 @@
 
 **Data engineering | Applied machine learning | Research prototypes**
 
-I'm a Computer Science and Engineering graduate from Amrita Vishwa Vidyapeetham. I work with data pipelines and applied ML, and I'm interested in how statistical analysis and reliable data systems support better decisions.
+I'm a Computer Science and Engineering graduate . I work with data pipelines and applied ML, and I'm interested in how statistical analysis and reliable data systems support better decisions.
 
 I completed an Erasmus+ academic exchange at Mälardalen University in Sweden in 2026. My recent work ranges from commercial sales and inventory data at HARMAN to research projects in clustering, language models and reinforcement learning.
 
